@@ -1,0 +1,5 @@
+models/*
+videos/*
+images/*
+src/assertion/__pycache__
+src/darknet/__pycache__
